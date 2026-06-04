@@ -1,0 +1,6 @@
+{
+  "name": "AuraStay",
+  "description": "Exquisite Hotel Booking, Service Concierge and Operations Platform for AuraStay Luxury Resorts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
